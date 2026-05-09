@@ -1,2 +1,9 @@
-# gitbook-documentation-training
-Documentation practice repository for GitBook assignment
+# GitBook Documentation Training
+
+This repository contains sample documentation created for learning GitBook structure, navigation, and publishing workflow.
+
+## Sections
+
+- Getting Started
+- Documentation Guidelines
+- Publishing Documentation
